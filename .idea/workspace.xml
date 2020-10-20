@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb3e8e0c-f237-4c48-9ecc-d036dcf5e311" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1inwErjJfQ0t0R7SCoyBb5IdccT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_flask_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb3e8e0c-f237-4c48-9ecc-d036dcf5e311" name="Default Changelist" comment="" />
+      <created>1602556554479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602556554479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602721001689">
+      <screen x="0" y="23" width="1366" height="684" />
+    </state>
+    <state x="384" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1366.684@0.23.1366.684" timestamp="1602721001689" />
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1603237135305">
+      <screen x="0" y="23" width="1366" height="684" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.23.1366.682@0.23.1366.682" timestamp="1602717406296" />
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.23.1366.684@0.23.1366.684" timestamp="1603237135305" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1603237135304">
+      <screen x="0" y="23" width="1366" height="684" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.23.1366.682@0.23.1366.682" timestamp="1602717406295" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.23.1366.684@0.23.1366.684" timestamp="1603237135304" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1603237135304">
+      <screen x="0" y="23" width="1366" height="684" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.23.1366.682@0.23.1366.682" timestamp="1602717406294" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.23.1366.684@0.23.1366.684" timestamp="1603237135304" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1603237135305">
+      <screen x="0" y="23" width="1366" height="684" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.23.1366.682@0.23.1366.682" timestamp="1602717406295" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.23.1366.684@0.23.1366.684" timestamp="1603237135305" />
+    <state x="184" y="23" key="SettingsEditor" timestamp="1602557032179">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state x="184" y="23" key="SettingsEditor/0.23.1366.682@0.23.1366.682" timestamp="1602557032179" />
+    <state x="348" y="29" width="670" height="676" key="search.everywhere.popup" timestamp="1603237846748">
+      <screen x="0" y="23" width="1366" height="682" />
+    </state>
+    <state x="348" y="29" width="670" height="676" key="search.everywhere.popup/0.23.1366.682@0.23.1366.682" timestamp="1603237846747" />
+  </component>
+</project>
